@@ -1,4 +1,4 @@
 # semeval
 The boiler plate for the upcoming competition.
-#Happenings
+# Happenings
 <b>Have a great day:)</b>
